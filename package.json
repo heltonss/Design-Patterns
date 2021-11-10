@@ -1,0 +1,14 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build",  
+    "singleton": "node build/singleton", 
+    "adapter": "node build/adapter"  
+  },
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
