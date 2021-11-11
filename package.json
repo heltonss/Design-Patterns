@@ -4,11 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc --build",  
-    "singleton": "node build/singleton", 
-    "adapter": "node build/adapter"  
+    "build": "tsc --build",
+    "singleton": "node build/singleton",
+    "adapter": "node build/adapter",
+    "factory-method": "node build/factory-method"
   },
   "dependencies": {
     "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
   }
 }
