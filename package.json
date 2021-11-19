@@ -7,7 +7,8 @@
     "build": "tsc --build",
     "singleton": "node build/singleton",
     "adapter": "node build/adapter",
-    "factory-method": "node build/factory-method"
+    "factory-method": "node build/factory-method",
+    "abstract-factory": "node build/abstract-factory"
   },
   "dependencies": {
     "typescript": "^4.4.4"
