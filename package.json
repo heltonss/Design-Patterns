@@ -8,7 +8,8 @@
     "singleton": "node build/singleton",
     "adapter": "node build/adapter",
     "factory-method": "node build/factory-method",
-    "abstract-factory": "node build/abstract-factory"
+    "abstract-factory": "node build/abstract-factory",
+    "strategy": "node build/strategy"
   },
   "dependencies": {
     "typescript": "^4.4.4"
