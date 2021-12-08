@@ -5,10 +5,11 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc --build",
-    "singleton": "node build/singleton",
+    "singleton": "node build/criacionais/singleton",
+    "factory-method": "node build/criacionais/factory-method",
+    "abstract-factory": "node build/criacionais/abstract-factory",
+    "builder": "node build/criacionais/builder",
     "adapter": "node build/adapter",
-    "factory-method": "node build/factory-method",
-    "abstract-factory": "node build/abstract-factory",
     "strategy": "node build/strategy"
   },
   "dependencies": {
