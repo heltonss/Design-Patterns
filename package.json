@@ -9,6 +9,7 @@
     "factory-method": "node build/criacionais/factory-method",
     "abstract-factory": "node build/criacionais/abstract-factory",
     "builder": "node build/criacionais/builder",
+    "prototype": "node build/criacionais/prototype",
     "adapter": "node build/adapter",
     "strategy": "node build/strategy"
   },
