@@ -10,7 +10,8 @@
     "abstract-factory": "node build/criacionais/abstract-factory",
     "builder": "node build/criacionais/builder",
     "prototype": "node build/criacionais/prototype",
-    "adapter": "node build/adapter",
+    "adapter": "node build/estruturais/adapter",
+    "bridge": "node build/estruturais/bridge",
     "strategy": "node build/strategy"
   },
   "dependencies": {
