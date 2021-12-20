@@ -12,6 +12,7 @@
     "prototype": "node build/criacionais/prototype",
     "adapter": "node build/estruturais/adapter",
     "bridge": "node build/estruturais/bridge",
+    "composite": "node build/estruturais/composite",
     "strategy": "node build/strategy"
   },
   "dependencies": {
