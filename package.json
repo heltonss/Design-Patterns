@@ -13,6 +13,7 @@
     "adapter": "node build/estruturais/adapter",
     "bridge": "node build/estruturais/bridge",
     "composite": "node build/estruturais/composite",
+    "decorator": "node build/estruturais/decorator",
     "strategy": "node build/strategy"
   },
   "dependencies": {
